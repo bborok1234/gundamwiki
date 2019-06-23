@@ -63,5 +63,7 @@ typings/
 # cache
 .cache
 
-# dist
+# compile
+build
 dist
+node_modules
