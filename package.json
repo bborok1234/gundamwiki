@@ -1,0 +1,20 @@
+{
+  "name": "gundamwiki",
+  "version": "1.0.0",
+  "description": "all for gundam plamodels",
+  "repository": "https://github.com/bborok1234/gundamwiki.git",
+  "author": "bborok1234 <limmir88@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "start": "parcel index.html -p 3000"
+  }
+}
