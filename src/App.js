@@ -1,17 +1,13 @@
 import React, { Component } from "react";
-import styles from "./styles.scss"
+import styles from "./styles.scss";
+
+// material ui
+import NavTabs from "./component/topbar/top";
 
 class App extends Component {
   render() {
     return (
-      <div className={styles.title}>
-        <h1>
-          Hello!
-        </h1>
-        <p>
-          all for gundam plamodels
-        </p>
-      </div>
+      <NavTabs />
     );
   }
 }
