@@ -11,7 +11,7 @@
     "@material-ui/icons": "^4.2.0",
     "@material-ui/styles": "^4.1.2",
     "autoprefixer": "^9.6.0",
-    "postcss-modules": "^1.4.1",
+    "postcss-modules": "^1.5.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "typography": "^0.16.19"
